@@ -1,6 +1,6 @@
 Several iron-iconset-svg derived from popular webfonts.
 
-[View demo and icon gallery](https://github.com/ilikerobots/webfonts-iconset-svg)
+[View demo and icon gallery](https://ilikerobots.github.io/webfonts-iconset-svg/components/webfonts-iconset-svg/)
 
 # Set Up
 ````sh
