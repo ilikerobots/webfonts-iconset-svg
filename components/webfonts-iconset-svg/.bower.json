@@ -1,0 +1,42 @@
+{
+  "name": "webfonts-iconset-svg",
+  "authors": [
+    "Mike Hoolehan <mike@hoolehan.com>"
+  ],
+  "description": "Popular webfonts converted to Polymer iron-iconset-svg",
+  "main": "webfonts-iconset-svg.html",
+  "keywords": [
+    "Polymer",
+    "Icons",
+    "Iconset",
+    "Font Awesome",
+    "Iconic",
+    "Fontello"
+  ],
+  "dependencies": {
+    "iron-icon": "polymerelements/iron-icon#^1.0.0",
+    "iron-iconset-svg": "polymerelements/iron-iconset-svg#^1.0.0",
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/ilikerobots/webfonts-iconset-svg",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "_release": "b51629b6f4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "b51629b6f4fc593ad9eb03d803c1d69aaf6d280d"
+  },
+  "_source": "git://github.com/ilikerobots/webfonts-iconset-svg.git",
+  "_target": "master",
+  "_originalSource": "ilikerobots/webfonts-iconset-svg",
+  "_direct": true
+}
