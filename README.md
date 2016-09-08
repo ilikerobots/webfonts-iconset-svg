@@ -1,8 +1,10 @@
 Several iron-iconset-svg derived from popular webfonts.
 
+[View demo and icon gallery](https://github.com/ilikerobots/webfonts-iconset-svg)
+
 # Set Up
 ````sh
-bower install webfonts-iconset-svg
+bower install ilikerobots/webfonts-iconset-svg
 ````
 # Use
 
